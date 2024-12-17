@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "email",
+    "required": true,
+    "placeholder": "Email",
+    "type": "email"
+  }
+]

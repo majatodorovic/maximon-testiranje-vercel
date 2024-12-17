@@ -1,0 +1,81 @@
+[
+  {
+    "id": 2,
+    "name": "first_name_shipping",
+    "placeholder": "Ime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 3,
+    "name": "last_name_shipping",
+    "placeholder": "Prezime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 4,
+    "name": "email_shipping",
+    "placeholder": "Email",
+    "type": "email",
+    "required": true
+  },
+  {
+    "id": 5,
+    "name": "phone_shipping",
+    "placeholder": "Telefon",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 6,
+    "name": "id_country_shipping",
+    "placeholder": "Država",
+    "options": [],
+    "type": "select",
+    "fill": "checkout/ddl/id_country",
+    "required": true
+  },
+  {
+    "id": 7,
+    "name": "town_name_shipping",
+    "placeholder": "Grad",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 8,
+    "name": "address_shipping",
+    "placeholder": "Adresa",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 10,
+    "name": "object_number_shipping",
+    "placeholder": "Broj objekta",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 11,
+    "name": "floor_shipping",
+    "placeholder": "Sprat",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 12,
+    "name": "apartment_number_shipping",
+    "placeholder": "Broj stana",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 9,
+    "name": "zip_code_shipping",
+    "placeholder": "Poštanski broj",
+    "type": "text",
+    "required": true
+  }
+]

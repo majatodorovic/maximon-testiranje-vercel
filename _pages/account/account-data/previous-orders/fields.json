@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "name",
+    "placeholder": "Naziv adrese",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 2,
+    "name": "first_name",
+    "placeholder": "Ime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 3,
+    "name": "last_name",
+    "placeholder": "Prezime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 4,
+    "name": "email",
+    "placeholder": "Email",
+    "type": "email",
+    "required": true
+  },
+  {
+    "id": 5,
+    "name": "phone",
+    "placeholder": "Telefon",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 6,
+    "name": "id_country",
+    "placeholder": "Država",
+    "options": [],
+    "type": "select",
+    "fill": "/customers/billing-address/ddl/id_country"
+  },
+  {
+    "id": 7,
+    "name": "town_name",
+    "placeholder": "Grad",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 8,
+    "name": "address",
+    "placeholder": "Adresa",
+    "type": "text",
+    "required": true
+  },
+  {
+  "id": 10,
+  "name": "object_number",
+  "placeholder": "Broj objekta",
+  "type": "text",
+  "required": true
+},
+  {
+    "id": 11,
+    "name": "floor",
+    "placeholder": "Sprat",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 12,
+    "name": "apartment_number",
+    "placeholder": "Broj stana",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 9,
+    "name": "zip_code",
+    "placeholder": "Poštanski broj",
+    "type": "text",
+    "required": true
+  },
+
+  {
+    "id": 11,
+    "name": "set_default",
+    "placeholder": "Postavi kao podrazumevanu adresu",
+    "type": "checkbox",
+    "required": false
+  }
+]

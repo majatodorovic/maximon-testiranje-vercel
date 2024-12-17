@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "email",
+    "placeholder": "Email",
+    "required": true,
+    "type": "email"
+  },
+  {
+    "id": 2,
+    "name": "password",
+    "placeholder": "Lozinka",
+    "required": true,
+    "type": "password"
+  }
+]

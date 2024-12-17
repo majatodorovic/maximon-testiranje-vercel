@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Korisnička podrška",
+    "children": [
+      {
+        "id": 2,
+        "title": "Kako kupiti",
+        "url": "/strana/kako-kupiti"
+      }
+    ]
+  }
+]

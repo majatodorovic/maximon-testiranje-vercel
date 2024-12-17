@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "slug",
+    "placeholder": "Broj porudžbenice"
+  },
+  {
+    "id": 6,
+    "name": "items_count",
+    "placeholder": "Broj artikala"
+  },
+  {
+    "id": 7,
+    "name": "total_with_vat",
+    "placeholder": "Ukupno"
+  },
+  {
+    "id": 8,
+    "name": "currency",
+    "placeholder": "Valuta"
+  },
+  {
+    "id": 9,
+    "name": "actions",
+    "placeholder": "Akcije",
+    "actions": "eyeopen"
+  }
+]

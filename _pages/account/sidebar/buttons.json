@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Pregled",
+    "tab": "dashboard"
+  },
+  {
+    "id": 2,
+    "title": "Profil",
+    "tab": "basic"
+  },
+  {
+    "id": 3,
+    "title": "Plaćanja",
+    "tab": "payments"
+  },
+  {
+    "id": 4,
+    "title": "Dostava",
+    "tab": "shipping"
+  },
+  {
+    "id": 5,
+    "title": "Prethodne kupovine",
+    "tab": "orders"
+  },
+  {
+    "id": 6,
+    "title": "Izmena lozinke",
+    "tab": "password-change"
+  },
+  {
+    "id": 7,
+    "title": "Odjava",
+    "tab": "logout"
+  }
+]

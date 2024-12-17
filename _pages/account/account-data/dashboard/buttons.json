@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Dodajte adresu plaćanja",
+    "tab": "payments"
+  },
+  {
+    "id": 2,
+    "title": "Dodajte adresu dostave",
+    "tab": "shipping"
+  },
+  {
+    "id": 3,
+    "title": "Izmenite profil",
+    "tab": "basic"
+  }
+]

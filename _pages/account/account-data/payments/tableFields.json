@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "name",
+    "placeholder": "Naziv adrese"
+  },
+  {
+    "id": 6,
+    "name": "country_name",
+    "placeholder": "Država"
+  },
+  {
+    "id": 7,
+    "name": "town_name",
+    "placeholder": "Grad",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 8,
+    "name": "address",
+    "placeholder": "Adresa"
+  },
+  {
+    "id": 9,
+    "name": "zip_code",
+    "placeholder": "Poštanski broj"
+  },
+  {
+    "id": 10,
+    "name": "object_number",
+    "placeholder": "Broj objekta"
+  },
+  {
+    "id": 11,
+    "name": "set_default",
+    "placeholder": "Podrazumevana adresa"
+  },
+  {
+    "id": 12,
+    "name": "actions",
+    "placeholder": "Akcije",
+    "type": "actions",
+    "actions": "edit-delete"
+  }
+]

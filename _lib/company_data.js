@@ -1,0 +1,40 @@
+export const company_data = {
+  default: {
+    name: process.env["NAME"],
+    telephone: process.env["TELEPHONE"],
+    email: process.env["EMAIL"],
+    street_address: process.env["STREET_ADDRESS"],
+    city: process.env["CITY"],
+    postal_code: process.env["POSTAL_CODE"],
+    address_country: process.env["ADDRESS_COUNTRY"],
+  },
+  stores: [
+    {
+      name: "Croonus Technologies - Beograd",
+      telephone: "+381 32 51 22 052",
+      email: "info@croonus.com",
+      street_address: "Dositejeva 3",
+      city: "Beograd",
+      postal_code: "11000",
+      address_country: "RS",
+    },
+    {
+      name: "Croonus Technologies - Beograd",
+      telephone: "+(302) 569 1255",
+      email: "info@croonus.com",
+      street_address: "12001 Old Vine Blvd Lewes",
+      city: "Delaware",
+      postal_code: "19958",
+      address_country: "USA",
+    },
+    {
+      name: "Croonus Technologies - Pale",
+      telephone: "+387 65 41 13 07",
+      email: "info@croonus.com",
+      street_address: "Milutina Milankovića 15",
+      city: "Pale",
+      postal_code: "71320",
+      address_country: "BiH",
+    },
+  ],
+};

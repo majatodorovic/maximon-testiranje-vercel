@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "first_name",
+    "placeholder": "Ime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 2,
+    "name": "last_name",
+    "placeholder": "Prezime",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 3,
+    "name": "email",
+    "placeholder": "Email",
+    "type": "email",
+    "required": true
+  },
+  {
+    "id": 4,
+    "name": "phone",
+    "placeholder": "Telefon",
+    "type": "text",
+    "required": true
+  },
+  {
+    "id": 5,
+    "name": "gender",
+    "placeholder": "Pol",
+    "type": "select",
+    "options": [
+      {
+        "id": "male",
+        "name": "Muški"
+      },
+      {
+        "id": "female",
+        "name": "Ženski"
+      }
+    ],
+    "required": true
+  },
+  {
+    "id": 6,
+    "name": "birth_date",
+    "placeholder": "Datum rođenja",
+    "type": "date",
+    "required": true
+  }
+]
